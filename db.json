@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "allPosts": [
     { "title": 1, "description": "Post 1", "image": "1.jpg","votes":0},
     { "title": 2, "description": "Post 2", "image": "2.jpg","votes":0},
     { "title": 3, "description": "Post 3", "image": "3.jpg","votes":0}
